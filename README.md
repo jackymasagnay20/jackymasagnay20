@@ -1,98 +1,86 @@
-# Portfolio-Development-
-project nexus
+ <div align="center">
 
-<!--
-=========================================================
- JACKY MASAGNAY | GITHUB PROFILE README
- Paste this into README.md in:
- jackymasagnay445-debug/jackymasagnay445-debug
-=========================================================
--->
+<img src="https://capsule-render.vercel.app/api?type=waving&height=240&color=0:07111F,35:123B70,70:7027AE,100:00D9FF&text=JACKY%20MASAGNAY&fontSize=48&fontColor=FFFFFF&fontAlignY=37&desc=COMPUTER%20ENGINEERING%20%7C%20SOFTWARE%20%7C%20INNOVATION&descSize=14&descAlignY=57&animation=fadeIn" width="100%" alt="Jacky Masagnay portfolio banner"/>
 
-<div align="center">
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=2800&pause=900&color=00D9FF&center=true&vCenter=true&width=700&lines=Computer+Engineering+Student;Aspiring+Software+Developer;Embedded+Systems+Enthusiast;Connecting+Hardware+and+Software;Learn.+Build.+Innovate." alt="Animated introduction"/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:07111F,35:123B70,70:7027AE,100:00D9FF&text=JACKY%20MASAGNAY&fontSize=45&fontColor=FFFFFF&fontAlignY=38&desc=COMPUTER%20ENGINEERING%20%7C%20SOFTWARE%20DEVELOPMENT&descSize=14&descAlignY=58&animation=fadeIn" width="100%" alt="Animated portfolio banner"/>
+<br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=21&duration=2800&pause=900&color=00D9FF&center=true&vCenter=true&width=650&lines=Computer+Engineering+Student;Aspiring+Software+Developer;Embedded+Systems+Enthusiast;Building+Ideas+Into+Technology" alt="Animated introduction"/>
+<a href="https://github.com/jackymasagnay445-debug"><img src="https://img.shields.io/badge/GitHub-My%20Repositories-111827?style=for-the-badge&logo=github&logoColor=00D9FF" alt="GitHub repositories"/></a>
+<a href="https://jackymasagnay445-debug.github.io/Kyy.github.io/"><img src="https://img.shields.io/badge/Portfolio-Visit%20My%20Website-111827?style=for-the-badge&logo=googlechrome&logoColor=00D9FF" alt="Portfolio website"/></a>
+<a href="mailto:jackymasagnay445@gmail.com"><img src="https://img.shields.io/badge/Email-Let's%20Connect-111827?style=for-the-badge&logo=gmail&logoColor=EA4335" alt="Email"/></a>
 
-<p>
-  <a href="https://github.com/jackymasagnay445-debug">
-    <img src="https://img.shields.io/badge/GitHub-Explore%20My%20Code-111827?style=for-the-badge&logo=github&logoColor=00D9FF" alt="GitHub"/>
-  </a>
-  <a href="mailto:jackymasagnay445@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Let's%20Connect-111827?style=for-the-badge&logo=gmail&logoColor=EA4335" alt="Email"/>
-  </a>
-  <a href="https://jackymasagnay445-debug.github.io/Kyy.github.io/">
-    <img src="https://img.shields.io/badge/Portfolio-Visit%20Website-111827?style=for-the-badge&logo=googlechrome&logoColor=00D9FF" alt="Portfolio website"/>
-  </a>
-</p>
+<br/><br/>
 
-*Engineering ideas. Writing code. Building the future.*
+**Engineering ideas into practical solutions.**
+
+*Curious mind · Creative problem solver · Engineer in progress*
 
 </div>
 
 ---
 
-## 01 — About Me
+## ◈ 01 — About Me
 
-const jacky = {
-    name: "Jacky Masagnay",
-    role: "Computer Engineering Student",
-    interests: [
-        "Software Development",
-        "Web & Android Applications",
-        "Embedded Systems & IoT",
-        "Computer Networking",
-        "Technology Innovation"
-    ],
-    currentlyLearning: [
-        "Advanced Programming",
-        "System Integration",
-        "Modern Software Engineering"
-    ],
-    philosophy: "Learn continuously. Build meaningfully."
-};
+<img align="right" width="130" src="https://skillicons.dev/icons?i=arduino,cpp,js,html&perline=2" alt="Programming and engineering technologies"/>
 
-I'm a Computer Engineering student passionate about connecting software, hardware, and innovative technology. I enjoy developing practical projects, experimenting with microcontrollers, designing applications, and exploring solutions to real-world problems.
+Hello! I'm **Jacky Masagnay**, a Computer Engineering student interested in the intersection of software development, embedded systems, electronics, and computer networking.
 
-My GitHub profile documents my learning journey, technical experiments, and projects as I continue developing my skills as an engineer.
+I enjoy exploring new technologies, developing application concepts, working with hardware, and applying engineering principles to practical problems.
+
+- 🎓 **Field:** Computer Engineering
+- 💻 **Interests:** Software and application development
+- ⚡ **Focus:** Embedded systems, electronics, and IoT
+- 🌐 **Exploring:** Networking and system integration
+- 🚀 **Goal:** Keep learning and build useful technology
+
+<br clear="right"/>
+
+> *Learn continuously. Build meaningfully. Improve every day.*
 
 ---
 
-## 02 — Technology Stack
+## ◈ 02 — Technology Stack
 
 <div align="center">
 
 ### Programming Languages
 
-<img src="https://skillicons.dev/icons?i=c,cpp,java,js&theme=dark" alt="Programming languages"/>
+<img src="https://skillicons.dev/icons?i=c,cpp,java,js&theme=dark" alt="C, C++, Java, JavaScript"/>
 
 ### Web & Application Development
 
-<img src="https://skillicons.dev/icons?i=html,css,nodejs,express,androidstudio&theme=dark" alt="Web and application development"/>
+<img src="https://skillicons.dev/icons?i=html,css,nodejs,express,androidstudio&theme=dark" alt="HTML, CSS, Node.js, Express, Android Studio"/>
 
 ### Databases & Cloud
 
-<img src="https://skillicons.dev/icons?i=mysql,firebase&theme=dark" alt="Database and cloud technologies"/>
+<img src="https://skillicons.dev/icons?i=mysql,firebase&theme=dark" alt="MySQL and Firebase"/>
 
-### Embedded Systems & Engineering
+### Embedded Systems
 
-<img src="https://skillicons.dev/icons?i=arduino,raspberrypi&theme=dark" alt="Embedded development tools"/>
+<img src="https://skillicons.dev/icons?i=arduino,raspberrypi&theme=dark" alt="Arduino and Raspberry Pi"/>
 
 ### Developer Tools
 
-<img src="https://skillicons.dev/icons?i=git,github,vscode,autocad&theme=dark" alt="Development tools"/>
+<img src="https://skillicons.dev/icons?i=git,github,vscode&theme=dark" alt="Git, GitHub, and Visual Studio Code"/>
 
 </div>
 
-*Additional technologies:* ESP32, 8051 microcontrollers, AD8232, MAX30102, OLED displays, sensors, basic electronics, Capacitor, MATLAB/Simulink, KiCad, and CloudBase.
+**Additional engineering tools and technologies**
+
+`AutoCAD` · `ESP32` · `8051 Microcontrollers` · `AD8232` · `MAX30102` · `OLED Displays` · `Sensors` · `Basic Electronics` · `Capacitor` · `MATLAB/Simulink` · `KiCad` · `CloudBase`
+
+*This list represents the tools and technologies associated with my learning and projects. Individual project descriptions identify relevant technologies where applicable.*
 
 ---
 
-## 03 — Featured Projects
+## ◈ 03 — Featured Projects
 
-A collection of engineering concepts, application prototypes, and software development projects.
+<div align="center">
 
+*Exploring software, healthcare technology, automation, and network infrastructure.*
+
+</div>
 
 <table>
 <tr>
@@ -100,27 +88,26 @@ A collection of engineering concepts, application prototypes, and software devel
 
 ### 🧾 ReceiScan
 
-*Receipt Management System*
+**Receipt Management System**
 
-A receipt management application designed to organize transaction records and simplify receipt processing using OCR.
+An application concept designed to organize transaction records and simplify receipt processing using optical character recognition (OCR).
 
-JavaScript
-OCR
-Node.js
-MySQL
+**Focus areas**
+
+`OCR` `Receipt Management` `Application Development`
 
 </td>
 <td width="50%" valign="top">
 
 ### 🏥 ERecPass
 
-*Electronic Health Record Prototype*
+**Electronic Health Record Prototype**
 
-A healthcare application concept for patient records, appointments, medical information, and emergency-related features.
+A healthcare application concept focused on patient records, appointments, medical information, and emergency-related features.
 
-Healthcare
-UI/UX
-Application Development
+**Focus areas**
+
+`Healthcare Technology` `UI/UX` `Application Design`
 
 </td>
 </tr>
@@ -129,27 +116,26 @@ Application Development
 
 ### ❤️ CardioVascular Monitoring System
 
-*Embedded Health Monitoring*
+**Embedded Health Monitoring**
 
-An electronics prototype exploring ECG, heart-rate, and blood oxygen monitoring using sensors and a microcontroller.
+An electronics prototype exploring ECG, heart-rate, and blood-oxygen monitoring with sensors and a microcontroller.
 
-ESP32
-AD8232
-MAX30102
-IoT
+**Technologies**
+
+`ESP32` `AD8232` `MAX30102` `Sensors`
 
 </td>
 <td width="50%" valign="top">
 
 ### ✂️ CableCut Express
 
-*Automated Cable Measuring & Cutting*
+**Automated Cable Measuring & Cutting**
 
-A self-service kiosk concept for cable distribution with automated length measurement and cutting for electronic shops.
+A self-service kiosk concept for cable distribution, featuring automated length measurement and cutting for electronic shops.
 
-Automation
-Arduino
-Manufacturing
+**Focus areas**
+
+`Automation` `Measurement` `Microcontrollers`
 
 </td>
 </tr>
@@ -158,26 +144,26 @@ Manufacturing
 
 ### 🤖 Integrated AI Microcontroller
 
-*Smart Embedded Systems*
+**Smart Embedded Systems**
 
 Explores the integration of microcontroller technology and intelligent computing concepts for automated electronic applications.
 
-Embedded C
-Microcontrollers
-Automation
+**Focus areas**
+
+`Embedded Systems` `Microcontrollers` `Automation`
 
 </td>
 <td width="50%" valign="top">
 
 ### 🌐 Three-Storey BPO LAN Design
 
-*Network Infrastructure*
+**Network Infrastructure**
 
-A structured LAN design for a three-storey BPO facility, including network topology, IP addressing, and cabling plans.
+A structured local area network design for a three-storey BPO facility, covering network topology, IP addressing, and cabling plans.
 
-Networking
-TCP/IP
-Structured Cabling
+**Technologies**
+
+`AutoCAD` `TCP/IP` `Structured Cabling`
 
 </td>
 </tr>
@@ -186,25 +172,26 @@ Structured Cabling
 
 ### 🚨 Ready PH
 
-*Emergency Preparedness Concept*
+**Emergency Preparedness Application Concept**
 
-A technology concept focused on emergency awareness, preparedness, and access to useful information during unexpected situations.
+A technology concept focused on emergency awareness, disaster preparedness, and access to useful information during unexpected situations.
 
-Application Design
-Public Safety
+**Focus areas**
+
+`Emergency Preparedness` `Offline Access` `Application Design`
 
 </td>
 <td width="50%" valign="top">
 
 ### 🧩 Project Nexus
 
-*Software Engineering & Collaboration*
+**Software Engineering & Collaboration**
 
-A software engineering project emphasizing system architecture, GitHub workflows, version control, teamwork, and organized execution.
+A project focused on organized software development, project structure, version control, GitHub workflows, and collaborative engineering practices.
 
-Git
-GitHub
-Collaboration
+**Focus areas**
+
+`Git` `GitHub` `Project Management` `Collaboration`
 
 </td>
 </tr>
@@ -212,76 +199,97 @@ Collaboration
 
 <div align="center">
 
-<a href="https://github.com/jackymasagnay445-debug?tab=repositories">
-  <img src="https://img.shields.io/badge/EXPLORE-ALL%20MY%20REPOSITORIES-6D28D9?style=for-the-badge&logo=github&logoColor=white" alt="Explore repositories"/>
-</a>
+<a href="https://github.com/jackymasagnay445-debug?tab=repositories"><img src="https://img.shields.io/badge/EXPLORE%20MY%20REPOSITORIES-00D9FF?style=for-the-badge&logo=github&logoColor=07111F" alt="Explore all repositories"/></a>
 
 </div>
 
 ---
 
-## 04 — GitHub Analytics
+## ◈ 04 — GitHub Analytics
 
 <div align="center">
 
 <a href="https://github.com/jackymasagnay445-debug">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=jackymasagnay445-debug&show_icons=true&theme=tokyonight&hide_border=true&bg_color=07111F&title_color=00D9FF&icon_color=BD7BFF&text_color=E6F1FF" alt="GitHub statistics"/>
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=jackymasagnay445-debug&show_icons=true&hide_border=true&bg_color=07111F&title_color=00D9FF&icon_color=BD7BFF&text_color=E6F1FF&ring_color=00D9FF" alt="GitHub statistics"/>
 </a>
 
 <a href="https://github.com/jackymasagnay445-debug">
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jackymasagnay445-debug&layout=compact&theme=tokyonight&hide_border=true&bg_color=07111F&title_color=00D9FF&text_color=E6F1FF" alt="Most-used programming languages"/>
-</a>
-
-<br/>
-
-<img src="https://streak-stats.demolab.com?user=jackymasagnay445-debug&theme=tokyonight&hide_border=true&background=07111F&ring=00D9FF&fire=BD7BFF&currStreakLabel=00D9FF" width="90%" alt="GitHub contribution streak"/>
-
-</div>
-
----
-
-## 05 — My Development Principles
-
-<div align="center">
-
-| Principle                 | What it means to me                                 |
-| :------------------------ | :-------------------------------------------------- |
-| ⚡ Innovation              | Turn ideas into useful solutions.                   |
-| 🧠 Continuous Learning    | Improve through experimentation and practice.       |
-| 🛠️ Practical Engineering | Connect software with real-world applications.      |
-| 🤝 Collaboration          | Build better projects through teamwork.             |
-| 🎯 Quality                | Write organized, understandable, maintainable code. |
-
-</div>
-
----
-
-## 06 — Let's Connect
-
-<div align="center">
-
-I'm always interested in learning new technologies, exploring engineering projects, and connecting with people who share a passion for innovation.
-
-<a href="mailto:jackymasagnay445@gmail.com">
-  <img src="https://img.shields.io/badge/Email-jackymasagnay445%40gmail.com-111827?style=for-the-badge&logo=gmail&logoColor=EA4335" alt="Contact by email"/>
-</a>
-
-<a href="https://github.com/jackymasagnay445-debug">
-  <img src="https://img.shields.io/badge/GitHub-Follow%20My%20Journey-111827?style=for-the-badge&logo=github&logoColor=FFFFFF" alt="GitHub profile"/>
-</a>
-
-<a href="https://jackymasagnay445-debug.github.io/Kyy.github.io/">
-  <img src="https://img.shields.io/badge/Personal%20Website-View%20Portfolio-111827?style=for-the-badge&logo=googlechrome&logoColor=00D9FF" alt="Personal portfolio"/>
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jackymasagnay445-debug&layout=compact&hide_border=true&bg_color=07111F&title_color=00D9FF&text_color=E6F1FF" alt="Most-used programming languages"/>
 </a>
 
 <br/><br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00D9FF,50:7027AE,100:07111F&height=120&section=footer&animation=fadeIn" width="100%" alt="Decorative footer"/>
+<img src="https://streak-stats.demolab.com?user=jackymasagnay445-debug&hide_border=true&background=07111F&ring=00D9FF&fire=BD7BFF&currStreakLabel=00D9FF&sideLabels=E6F1FF&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=9AAAC2" width="90%" alt="GitHub contribution streak"/>
 
-### while (learning) { build(); improve(); repeat(); }
+<br/><br/>
 
-*Thanks for visiting my GitHub profile!*
+<img src="https://github-profile-trophy.vercel.app/?username=jackymasagnay445-debug&theme=onestar&no-frame=true&no-bg=true&column=4&margin-w=8" width="95%" alt="GitHub profile trophies"/>
 
-<sub>Designed with curiosity, powered by code, and driven by engineering.</sub>
+</div>
+
+---
+
+## ◈ 05 — Engineering Principles
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### ⚡ Innovation
+
+Explore ideas and find creative approaches to technical challenges.
+
+</td>
+<td width="50%" valign="top">
+
+### 🧠 Continuous Learning
+
+Improve through experimentation, feedback, and consistent practice.
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🛠️ Practical Engineering
+
+Connect software, hardware, and technical knowledge to real-world applications.
+
+</td>
+<td width="50%" valign="top">
+
+### 🤝 Collaboration
+
+Share knowledge, communicate clearly, and learn from teamwork.
+
+</td>
+</tr>
+</table>
+
+---
+
+## ◈ 06 — Let's Connect
+
+<div align="center">
+
+**Have an idea, a project, or a shared interest in technology?**
+
+I'm always looking to learn, explore engineering concepts, and connect with others interested in software and innovation.
+
+<br/>
+
+<a href="mailto:jackymasagnay445@gmail.com"><img src="https://img.shields.io/badge/EMAIL-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Jacky"/></a>
+<a href="https://github.com/jackymasagnay445-debug"><img src="https://img.shields.io/badge/GITHUB-Follow%20My%20Journey-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub profile"/></a>
+<a href="https://jackymasagnay445-debug.github.io/Kyy.github.io/"><img src="https://img.shields.io/badge/PORTFOLIO-Visit%20Website-123B70?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio website"/></a>
+
+<br/><br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00D9FF,50:7027AE,100:07111F&height=140&section=footer&animation=fadeIn" width="100%" alt="Portfolio footer banner"/>
+
+### `while (learning) { build(); improve(); repeat(); }`
+
+**Thanks for visiting my profile!**
+
+<sub>Designed with curiosity · Powered by code · Driven by engineering</sub>
 
 </div>
