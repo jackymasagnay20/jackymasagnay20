@@ -127,7 +127,7 @@ Application Development
 <tr>
 <td width="50%" valign="top">
 
-### ❤️ Smart IoT Heart Monitoring
+### ❤️ CardioVascular Monitoring System
 
 *Embedded Health Monitoring*
 
