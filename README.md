@@ -1,16 +1,5 @@
  <div align="center">
-
- <!-- Profile Picture -->
-<div align="center">
-  <img
-    src="./profile.jpg"
-    alt="My Profile Picture"
-    width="180"
-    style="border-radius: 50%; border: 4px solid #38BDF8;"
-  />
-</div>
-
-
+  
 <img src="https://capsule-render.vercel.app/api?type=waving&height=240&color=0:07111F,35:123B70,70:7027AE,100:00D9FF&text=JACKY%20MASAGNAY&fontSize=48&fontColor=FFFFFF&fontAlignY=37&desc=COMPUTER%20ENGINEERING%20%7C%20SOFTWARE%20%7C%20INNOVATION&descSize=14&descAlignY=57&animation=fadeIn" width="100%" alt="Jacky Masagnay portfolio banner"/>
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=2800&pause=900&color=00D9FF&center=true&vCenter=true&width=700&lines=Computer+Engineering+Student;Aspiring+Software+Developer;Embedded+Systems+Enthusiast;Connecting+Hardware+and+Software;Learn.+Build.+Innovate." alt="Animated introduction"/>
