@@ -205,20 +205,6 @@ A project focused on organized software development, project structure, version 
 
 ---
 
-## ◈ 04 — GitHub Analytics
-
-<div align="center">
-
-<a href="https://github.com/jackymasagnay445-debug">
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=jackymasagnay445-debug&show_icons=true&hide_border=true&bg_color=07111F&title_color=00D9FF&icon_color=BD7BFF&text_color=E6F1FF&ring_color=00D9FF" alt="GitHub statistics"/>
-</a>
-
-<a href="https://github.com/jackymasagnay445-debug">
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jackymasagnay445-debug&layout=compact&hide_border=true&bg_color=07111F&title_color=00D9FF&text_color=E6F1FF" alt="Most-used programming languages"/>
-</a>
-
-<br/><br/>
-
 <img src="https://streak-stats.demolab.com?user=jackymasagnay445-debug&hide_border=true&background=07111F&ring=00D9FF&fire=BD7BFF&currStreakLabel=00D9FF&sideLabels=E6F1FF&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=9AAAC2" width="90%" alt="GitHub contribution streak"/>
 
 <br/><br/>
