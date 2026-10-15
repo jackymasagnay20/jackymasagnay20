@@ -197,21 +197,6 @@ A project focused on organized software development, project structure, version 
 </tr>
 </table>
 
-<div align="center">
-
-<a href="https://github.com/jackymasagnay445-debug?tab=repositories"><img src="https://img.shields.io/badge/EXPLORE%20MY%20REPOSITORIES-00D9FF?style=for-the-badge&logo=github&logoColor=07111F" alt="Explore all repositories"/></a>
-
-</div>
-
----
-
-<img src="https://streak-stats.demolab.com?user=jackymasagnay445-debug&hide_border=true&background=07111F&ring=00D9FF&fire=BD7BFF&currStreakLabel=00D9FF&sideLabels=E6F1FF&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=9AAAC2" width="90%" alt="GitHub contribution streak"/>
-
-<br/><br/>
-
-<img src="https://github-profile-trophy.vercel.app/?username=jackymasagnay445-debug&theme=onestar&no-frame=true&no-bg=true&column=4&margin-w=8" width="95%" alt="GitHub profile trophies"/>
-
-</div>
 
 ---
 
